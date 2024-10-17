@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Jose Fernandez"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "personal website"
+url                      : "https://prof-fernandez.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://prof-fernandez.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "https://business.louisville.edu/bizprod/wp-content/uploads/2019/05/Jose-Fernandez0046-700x700.jpg"
   name             : "Jose M. Fernandez"
   pronouns         : # example: "she/her"  
-  bio              : "Professor of Economics and Department Chair"
+  bio              : "Professor of Economics & Department Chair"
   location         : "Louisville, KY"
   employer         : "University of Louisville"
   uri              : "https://business.louisville.edu/faculty-research/faculty-directory/jose-manuel-fernandez-phd/" # URL
