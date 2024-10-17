@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jose M. Fernandez"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Louisville, KY"
+  employer         : "University of Louisville"
+  uri              : "https://business.louisville.edu/faculty-research/faculty-directory/jose-manuel-fernandez-phd/"# URL
+  email            : "jose.fernandez@louisville.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
