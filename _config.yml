@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Professor of Economics & Department Chair"
   location         : "Louisville, KY"
-  employer         : "University of Louisville"
+  employer         : "[University of Louisville](https://louisville.edu)"
   uri              : "https://business.louisville.edu/faculty-research/faculty-directory/jose-manuel-fernandez-phd/" # URL
   email            : "jose.fernandez@louisville.edu" 
 
@@ -80,7 +80,9 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Working Papers'
+  other:
+    title: 'Non-Refereed Articles'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
