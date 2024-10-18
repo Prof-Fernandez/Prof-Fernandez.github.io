@@ -2,7 +2,7 @@
 title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
-permalink: /publication/HSRsuicide.md
+permalink: /publication/HSRsuicide
 excerpt: 'Medical examiners are trained appointed physicians. Coroners are often elected individuals with no medical training but serve 80% of the population. Both determine suicide counts in the United States. Suicide is a leading cause of death in the United States. Researchers believe suicide rates are underreported by 15%–50% internationally. Differences in medical training may account for this discrepancy. We used a staggered difference-in-differences approach and found coroner-only states underreported share of suicides by 17.4% and performed 20.4% fewer autopsies compared to states with county coroners and a state medical examiner.'
 date: 2024
 venue: 'Health Services Research'
