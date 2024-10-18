@@ -13,7 +13,7 @@ redirect_from:
 
 *University of Louisville, Louisville, KY*
 
-Professor of Economics \hfill 2024 - Present
+Professor of Economics <div style="text-align: right"> 2024 - Present </div> 
 
 Chair of the Economics Department \hfill 2020 - Present
 
