@@ -502,23 +502,22 @@ Faculty Advisor to the Economic Club, 2008 - 2014
 
 .	[Aetna-Humana deal to face tough federal review, Oct. 29, 2015](http://insiderlouisville.com/business/aetna-humana-hurdle-face-tough-federal-review/)
 
-. [The Heirs of Al Capone, The Economist, Oct. 3rd, 2015](http://www.economist.com/news/united-
-states/21669951-dry-counties-have-more-meth-labs-heirs-al-capone)
+. [The Heirs of Al Capone, The Economist, Oct. 3rd, 2015](http://www.economist.com/news/united-states/21669951-dry-counties-have-more-meth-labs-heirs-al-capone)
 
-. [These places banned booze. Now they're dealing with something far worse, Sept. 25, 2015 Washington Post Blog,](https://www.washingtonpost.com/news/wonk/wp/2015/09/25/these- places-banned-booze-now-theyre-dealing-with-something-far-worse/)
+. [These places banned booze. Now they're dealing with something far worse, Sept. 25, 2015 Washington Post Blog,](https://www.washingtonpost.com/news/wonk/wp/2015/09/25/these-places-banned-booze-now-theyre-dealing-with-something-far-worse/)
 
-. [Obamacare reduces maximum out-of-pocket costs, but not enough for some, Aug. 3, 2015](http://www.usatoday.com/story/money/personalfinance/2015/08/03/how-pay-high-out--pocket- costs/30696993/)
+. [Obamacare reduces maximum out-of-pocket costs, but not enough for some, Aug. 3, 2015](http://www.usatoday.com/story/money/personalfinance/2015/08/03/how-pay-high-out--pocket-costs/30696993/)
 
 . [Tax expert: Say no to audit protection April 14, 2015](http://www.wave3.com/story/28800931/tax-expert-say-no-to-audit-protection)
 
-. [State approves millions in tax incentives for Louisville businesses, but do they work? March 4, 2015](http://insiderlouisville.com/business/state-approves-multiple-financial-incentives-lou-area- businesses/)
+. [State approves millions in tax incentives for Louisville businesses, but do they work? March 4, 2015](http://insiderlouisville.com/business/state-approves-multiple-financial-incentives-lou-area-businesses/)
 
 . [Local Alcohol-Prohibition Laws May Lead to Less Liquor, but more meth, Economists Say Jan 4,
-2015](http://blogs.wsj.com/economics/2015/01/04/local-alcohol-prohibition-laws-may-lead-to- less-liquor-but-more-meth-economists-say/)
+2015](http://blogs.wsj.com/economics/2015/01/04/local-alcohol-prohibition-laws-may-lead-to-less-liquor-but-more-meth-economists-say/)
 
 .	[Rise in healthcare spending hits new low Dec. 4, 2014](http://www.bizjournals.com/louisville/blog/morning_call/2014/12/rise-in-health-care-spending-hits-new-low.html)
 
-.	[Health Sending Grows by Lowest Ever Rate Dec. 3, 2014](http://www.courier- journal.com/story/news/local/2014/12/03/health-spending-grows-lowest-ever-rate/19849893/)
+.	[Health Sending Grows by Lowest Ever Rate Dec. 3, 2014](http://www.courier-journal.com/story/news/local/2014/12/03/health-spending-grows-lowest-ever-rate/19849893/)
 
 .	[Louisville's Gas Price Game Nov. 19, 2014](http://www.wdrb.com/story/27429634/special-report-louisvilles-gas-price-game)
 
@@ -535,11 +534,9 @@ states/21669951-dry-counties-have-more-meth-labs-heirs-al-capone)
 
 .	[Louisville researcher part of study that says autism over diagnosed](http://www.lanereport.com/38413/2014/09/louisville-researcher-part-of-study-that-says-autism-over-diagnosed/)
 
-.	[Gas prices hover around $4 in Louisville area WAVE 3 June 10, 2014](http://www.wave3.com/story/25743124/gas-prices-hover-around-4-in-louisville-
-area?autostart=true)
+.	[Gas prices hover around $4 in Louisville area WAVE 3 June 10, 2014](http://www.wave3.com/story/25743124/gas-prices-hover-around-4-in-louisville-area?autostart=true)
 
-.	[Raising minimum wages has consequences, economist says Feb. 12, 2014](http://www.bizjournals.com/louisville/news/2014/02/12/raising-minimum-wages-
-has.html?page=all)
+.	[Raising minimum wages has consequences, economist says Feb. 12, 2014](http://www.bizjournals.com/louisville/news/2014/02/12/raising-minimum-wages-has.html?page=all)
 
 . [UofL assistant professor discusses potential government shutdown WHAS11 Sept. 30, 2013](http://www.whas11.com/news/politics/UofL-assitant-professor-discusses-potential- government-shutdown-225842281.html)
 
