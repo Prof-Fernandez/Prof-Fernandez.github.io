@@ -12,43 +12,34 @@ redirect_from:
 # Employment
 
 *University of Louisville, Louisville, KY*
-
-Professor of Economics                        2024 - Present
-
-Chair of the Economics Department             2020 - Present
-
-Associate Professor of Economics              2014 - 2024
-
-Assistant Professor of Economics              2008 - 2014
-
-Instructor of Economics                       2007 - 2008
+- Professor of Economics                        2024 - Present
+- Chair of the Economics Department             2020 - Present
+- Associate Professor of Economics              2014 - 2024
+- Assistant Professor of Economics              2008 - 2014
+- Instructor of Economics                       2007 - 2008
 
 *Commission on Children and Families, Charlottesville, VA* 
-
-Research Assistant                            2005 - 2006
+- Research Assistant                            2005 - 2006
 
 *University of Virginia Law School, Charlottesville, VA* 
-
-Research Assistant                            2004 - 2005
+- Research Assistant                            2004 - 2005
 
 *Center for Urban Transportation Research, University of South Florida, Tampa, FL*
-
-Research Assistant                            2000 - 2001
+- Research Assistant                            2000 - 2001
 
 *Office of Human Resource, City of Lakeland, Lakeland, FL* 
-
-Internship                                    1999
+- Internship                                    1999
 
 
 # Education
 
 *University of Virginia, Charlottesville, VA*
-Ph.D. Economics May 2008
-M.A. Economics  May 2002
+- Ph.D. Economics May 2008
+- M.A. Economics  May 2002
 
 *University of South Florida, Tampa, FL* 
-M.A. Economics May 2000
-B.A. Economics May 1999
+- M.A. Economics May 2000
+- B.A. Economics May 1999
 
 
 # Publications
