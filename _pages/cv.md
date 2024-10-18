@@ -538,7 +538,7 @@ Faculty Advisor to the Economic Club, 2008 - 2014
 
 .	[Raising minimum wages has consequences, economist says Feb. 12, 2014](http://www.bizjournals.com/louisville/news/2014/02/12/raising-minimum-wages-has.html?page=all)
 
-. [UofL assistant professor discusses potential government shutdown WHAS11 Sept. 30, 2013](http://www.whas11.com/news/politics/UofL-assitant-professor-discusses-potential- government-shutdown-225842281.html)
+. [UofL assistant professor discusses potential government shutdown WHAS11 Sept. 30, 2013](http://www.whas11.com/news/politics/UofL-assitant-professor-discusses-potential-government-shutdown-225842281.html)
 
 .	[Shepard, Josh. "Examining health insurance mandate options." The Lane Report, March 14, 2013](http://www.lanereport.com/19504/2013/03/examining-health-insurance-mandate-options/)
 
