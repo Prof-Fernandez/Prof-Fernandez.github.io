@@ -405,8 +405,11 @@ Faculty Advisor to the Economic Club, 2008 - 2014
 . [Why are car insurance laws so different from state to state?  Wallethub Nov 17, 2021](https://https//wallethub.com/car-insurance/kentucky#Jose_M._Fernandez)
 
 . What is inflation and when will the prices go down? 11/12/2021 Multiple outlets [here](https://https//www.cbs8.com/article/news/nation-world/what-is-inflation-why-is-it-happening-supply-chain-demand-shortages-economy-price-increase/507-34f985d1-f85d-4a29-9304-7a9f2490e6fc), [here](https://https//texasnewstoday.com/what-is-inflation-when-will-the-price-go-down/533751/), [here](https://https//ohionewstime.com/what-is-inflation-when-will-the-price-go-down/285053/)
+
 . [LG&E customers could see hike in bill as natural gas costs rise](https://www.whas11.com/article/news/local/lge-natural-gas-hike/417-932f48cf-a44b-45cd-be76-b61cb12dea5f)
+
 . [NPR Planet Money: Bobby Bonillia Day, June 25, 2021](https://www.npr.org/2021/06/25/1010404697/bobby-bonilla-day)
+
 . [Wallethub-Ask the Experts: Car Insurance](https://wallethub.com/cheap-car-insurance/kentucky#experts=Jose_M._Fernandez)
 
 . [UNINVESTIGATED, UNCOUNTED: HOW JUSTICES OF THE PEACE MISS IMPORTANT CLUES IN DEATH INVESTIGATIONS, March 21, 2021](https://www.texasobserver.org/uninvestigated-uncounted-how-justices-of-the-peace-miss-important-clues-in-death-investigations/)
@@ -420,6 +423,7 @@ Faculty Advisor to the Economic Club, 2008 - 2014
 . [Here's how McConnell's $1 trillion HEALS Act would impact Kentucky businesses and workers July 29, 2020](https://www.courier-journal.com/story/news/politics/2020/07/28/heals-act-covid-19-bill-would-impact-kentucky-businesses-workers/5523366002/)
 
 . [Column: Is Gilead ripping us off with a COVID-19 treatment topping $3000? June 30, 2020](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Furl%3Frct%3Dj%26sa%3Dt%26url%3Dhttps%3A%2F%2Fwww.latimes.com%2Fbusiness%2Fstory%2F2020-06-29%2Fcolumn-coronavirus-gilead-remdesivir-price%26ct%3Dga%26cd%3DCAEYACoTNDE5NDA3Nzg3MTQ2ODM4NDc1NTIaY2FlZjdlOThhMTg0MjE1Njpjb206ZW46VVM%26usg%3DAFQjCNFEp_GWyJOBCRJvcIWV8_J1bzsg8g&data=02%7C01%7Cjose.fernandez%40louisville.edu%7C87bb6691dfa74e26fd9b08d81cf59d8c%7Cdd246e4a54344e158ae391ad9797b209%7C0%7C0%7C637291188521264330&sdata=PgyaCW13%2F8k7ooSdTjhOeRX2fjFRTpregW5IeLgFaYs%3D&reserved=0)
+
 . [‘The floor was taken out from under them’: April’s massive job losses are hitting these Americans more than others May 9th, 2020](https://www.marketwatch.com/story/the-floor-was-taken-out-from-under-them-aprils-massive-job-losses-are-hitting-these-americans-more-than-others-2020-05-08)
 
 . [COVID-19 Y La Economia a Facebook live event with King's Day of Louisville April 24, 2020](https://www.facebook.com/KDS502787/videos/837169190096419/)
