@@ -13,42 +13,42 @@ redirect_from:
 
 *University of Louisville, Louisville, KY*
 
-Professor of Economics <div style="text-align: right"> 2024 - Present </div> 
+Professor of Economics                        2024 - Present
 
-Chair of the Economics Department \hfill 2020 - Present
+Chair of the Economics Department             2020 - Present
 
-Associate Professor of Economics \hfill 2014 - 2024
+Associate Professor of Economics              2014 - 2024
 
-Assistant Professor of Economics \hfill 2008 - 2014
+Assistant Professor of Economics              2008 - 2014
 
-Instructor of Economics \hfill 2007 - 2008
+Instructor of Economics                       2007 - 2008
 
 *Commission on Children and Families, Charlottesville, VA* 
 
-Research Assistant \hfill 2005 - 2006
+Research Assistant                            2005 - 2006
 
 *University of Virginia Law School, Charlottesville, VA* 
 
-Research Assistant \hfill 2004 - 2005
+Research Assistant                            2004 - 2005
 
 *Center for Urban Transportation Research, University of South Florida, Tampa, FL*
 
-Research Assistant \hfill 2000 - 2001
+Research Assistant                            2000 - 2001
 
 *Office of Human Resource, City of Lakeland, Lakeland, FL* 
 
-Internship \hfill 1999
+Internship                                    1999
 
 
 # Education
 
-*University of Virginia, Charlottesville, VA*, Ph.D. Economics \hfill May 2008
+*University of Virginia, Charlottesville, VA*
+Ph.D. Economics May 2008
+M.A. Economics  May 2002
 
-*University of Virginia, Charlottesville, VA*, M.A. Economics \hfill May 2002
-
-*University of South Florida, Tampa, FL*, M.A. Economics \hfill May 2000
-
-*University of South Florida, Tampa, FL*, B.A. Economics \hfill May 1999
+*University of South Florida, Tampa, FL* 
+M.A. Economics May 2000
+B.A. Economics May 1999
 
 
 # Publications
@@ -118,11 +118,9 @@ Part 2: 2014 Health Economic Research Study by Jose Fernandez PhD, associate pro
 
 1. Fernandez, Jose & Erin Yetter, "Sentiment Analysis of Teaching Evaluations: Evidence from 8 million Rate My Professor Reviews" (Revise and Resubmit)
 
-2. Fernandez, Jose & Jayani Jayawardhana, "The Political Economy of Death: Do Coroners perform as well as Medical Examiners in determining suicide?" 
+2. Jose M. Fernandez, Elizabeth Munnich, and Noelia Paez "Autism, Parental Age, Education, and Birth Spacing: Can Economics Explain Some of the Rise?"
 
-3. Jose M. Fernandez, Elizabeth Munnich, and Noelia Paez "Autism, Parental Age, Education, and Birth Spacing: Can Economics Explain Some of the Rise?"
-
-4. Emily Davis, José Fernandez, Elizabeth L. Munnich, "International Medical Graduates and the US Physician Workforce"
+3. Emily Davis, José Fernandez, Elizabeth L. Munnich, "International Medical Graduates and the US Physician Workforce"
 
 ## Works in Progress
 
@@ -145,39 +143,39 @@ Principles of Macroeconomics (teaching assistant)
 
 # AWARDS
 
-Fellow of the Diversity Initiative for Tenure in Economics \hfill 2013-2014
+Fellow of the Diversity Initiative for Tenure in Economics, 2013-2014
 
 *University of Louisville*
 
-University’s Distinguished Faculty Service Award \hfill 2022
+University’s Distinguished Faculty Service Award, 2022
 
-LIAM Program Graduate \hfill 2022
+LIAM Program Graduate, 2022
 
-Cardinal Spirit Award \hfill 2020
+Cardinal Spirit Award, 2020
 
-Faculty Service Award College of Business \hfill 2018
+Faculty Service Award College of Business, 2018
 
-Undergraduate Teaching Award College of Business \hfill 2012 
+Undergraduate Teaching Award College of Business, 2012 
 
-"Faculty Favorites" Award \hfill 2011-2012, 2019-2020, 2020-2021, 2022-2023
+"Faculty Favorites" Award, 2011-2012, 2019-2020, 2020-2021, 2022-2023
 
-Summer Research Support \hfill 2008, 2009, 2010, 2012, 2013, 2017, 2018, 2020
+Summer Research Support, 2008, 2009, 2010, 2012, 2013, 2017, 2018, 2020
 
 *University of Virginia*
 
-Snavely Dissertation Prize, University of Virginia \hfill 2009
+Snavely Dissertation Prize, University of Virginia, 2009
 
-1st Place Robert J. Huskey Graduate Research Poster Presentation, University of Virginia \hfill 2006
+1st Place Robert J. Huskey Graduate Research Poster Presentation, University of Virginia, 2006
 
-Bankard Pre-Doctoral Fellowship \hfill 2006
+Bankard Pre-Doctoral Fellowship, 2006
 
-Graduate Fellowship \hfill 2000-2003
+Graduate Fellowship, 2000-2003
 
 *University of South Florida*
 
-Graduate Fellowship \hfill 1999-2000
+Graduate Fellowship, 1999-2000
 
-Summer Graduate Fellowship \hfill 1999
+Summer Graduate Fellowship, 1999
 
 # Grants
 
@@ -304,65 +302,64 @@ American Economic Association; American Society of Health Economist; American So
 	
 *University of Louisville*
 
-Chair of Performance Review Committee of the College of Business \hfill 2023 - Present
+Chair of Performance Review Committee of the College of Business, 2023 - Present
 
-Co-chair of the Generative AI Ad-hoc Committee \hfill 2023-2024
+Co-chair of the Generative AI Ad-hoc Committee, 2023-2024
 
-RPM/Gardner Foundation Project Steering Committee \hfill 2022-2023
+RPM/Gardner Foundation Project Steering Committee, 2022-2023
 
-Retirement Plan Advisory board \hfill 2020 - Present
+Retirement Plan Advisory board, 2020 - Present
 
-Faculty Senate Executive Committee \hfill 2019 - 2024
+Faculty Senate Executive Committee, 2019 - 2024
 
-Faculty Senator \hfill 2019 - present
+Faculty Senator, 2019 - present
 
-University Advising Task Force Member 2019 - 2020
+University Advising Task Force Member, 2019 - 2020
 
-Dissertation Committee Member for Matthew Walton (UofL Social Work) 2018-2019
+Dissertation Committee Member for Matthew Walton (UofL Social Work), 2018-2019
 
-Summer Data Science Short Camp \hfill 2019
+Summer Data Science Short Camp, 2019
 
-College of Business Personnel Committee \hfill 2018 - 2020
+College of Business Personnel Committee, 2018 - 2020
 
-College of Business MBA Committee \hfill 2017-2020
+College of Business MBA Committee, 2017-2020
 
-College of Business MSBA Committee \hfill 2017 - present
+College of Business MSBA Committee, 2017 - present
 
-Co-President of the Hispanic/Latino Faculty & Staff Association \hfill 2014 - 2018
+Co-President of the Hispanic/Latino Faculty & Staff Association, 2014 - 2018
 
-Member of the Hispanic/Latino Faculty & Staff Association \hfill 2014 - present
+Member of the Hispanic/Latino Faculty & Staff Association, 2014 - present
 
-Chair of the Search Committee for Economics \hfill 2014 - 2015 
+Chair of the Search Committee for Economics, 2014 - 2015 
 
-University-wide General Education Curriculum Committee \hfill 2013 - 2019
+University-wide General Education Curriculum Committee, 2013 - 2019
 
-University-wide Academic Technology Committee \hfill 2013 - present
+University-wide Academic Technology Committee, 2013 - 2022
 
-Member of the College of Business Diversity Committee \hfill 2012 - 2014, 2016 - 2021    
+Member of the College of Business Diversity Committee, 2012 - 2014, 2016 - 2021    
 
-Hispanic Initiative member \hfill 2010 - 2011
+Hispanic Initiative member, 2010 - 2011
 
-Guest Speaker of Summer Medical and Dental Education Program \hfill 2010 - 2016
+Guest Speaker of Summer Medical and Dental Education Program, 2010 - 2016
 
-Guest Statistics Instructor for the PhD Program in Entrepreneurship \hfill 2009, 2018, 2019, 2022, 2023                  
+Guest Statistics Instructor for the PhD Program in Entrepreneurship, 2009, 2018, 2019, 2022, 2023                  
+Search Committee Member for Executive Vice President for Research & Innovation, 2024
 
-Search Committee Member for Executive Vice President for Research & Innovation \hfill 2024
+Search Committee Member for Delphi Center, 2024
 
-Search Committee Member for Delphi Center \hfill 2024
+Search Committee Member for Economics, 2008 - 2016
 
-Search Committee Member for Economics \hfill 2008 - 2016
+Search Committee Member for Equine, 2018,2020, 2024
 
-Search Committee Member for Equine \hfill 2018,2020, 2024
+Search Committee Member for Center of Free Enterprise, 2018 - 2021
 
-Search Committee Member for Center of Free Enterprise \hfill 2018 - 2021
+Search Committee Member for College of Business Marketing, 2018
 
-Search Committee Member for College of Business Marketing \hfill 2018
+Search Committee Member for Cultural Center Director, 2018 - 2019
 
-Search Committee Member for Cultural Center Director \hfill 2018 - 2019
+Search Committee Member for Provost, 2017
 
-Search Committee Member for Provost \hfill 2017
-
-Faculty Advisor to the Economic Club \hfill 2008 - 2014
+Faculty Advisor to the Economic Club, 2008 - 2014
 
 # MEDIA MENTIONS(over 100)
 .   [Kentucky's EV battery manufacturing plans face uncertainty amid consumer skepticism Jul 1, 2024](https://www.wdrb.com/news/business/kentuckys-ev-battery-manufacturing-plans-face-uncertainty-amid-consumer-skepticism/article_61a818e8-37e0-11ef-9d77-d7e831606ab8.html)
