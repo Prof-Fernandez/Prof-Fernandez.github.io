@@ -1,15 +1,15 @@
 ---
-title: "Unraveling the Hispanic Health Paradox"
+title: "Hurricane Maria and La Crisis Boricua on Health-Care Supply in Puerto Rico"
 collection: publications
 category: manuscripts
-permalink: /publication/HSRsuicide
-excerpt: 'In 2019, Hispanics in the US had a life expectancy advantage of 3.0 years and 7.1 years over non-Hispanic Whites and non-Hispanic Blacks, respectively, despite having real-household income values 26 percentage points lower than Non-Hispanic White households.'
+permalink: /publication/hurricanemaria
+excerpt: 'The number of health-care providers decreased by 6.5 percent, family physicians by 17.5 percent, and specialists by 8 percent.'
 date: 2023-10-01
-venue: 'Journal of Economic Perspectives'
+venue: 'AEA Papers and Proceedings'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[Link to Paper](https://www.aeaweb.org/articles?id=10.1257/jep.37.1.145)'
-citation: 'Fernandez, José, Mónica García-Pérez, and Sandra Orozco-Aleman. 2023. "Unraveling the Hispanic Health Paradox." Journal of Economic Perspectives, 37 (1): 145–68. DOI: 10.1257/jep.37.1.145'
+paperurl: '[Link to Paper](https://www.aeaweb.org/articles?id=10.1257/pandp.20211116)'
+citation: 'Fernandez, Jose M. 2021. "Hurricane Maria and La Crisis Boricua on Health-Care Supply in Puerto Rico." AEA Papers and Proceedings, 111: 598–601'
 ---
 
 # Abstract
-In 2019, Hispanics in the US had a life expectancy advantage of 3.0 years and 7.1 years over non-Hispanic Whites and non-Hispanic Blacks, respectively, despite having real-household income values 26 percentage points lower than Non-Hispanic White households. Hispanics appear to have equal or even better health outcomes relative to non-Hispanic Whites across various health measures. This is known as the Hispanic health paradox. This paper underscores the importance of disaggregating Hispanics by ancestry and age profile when discussing the paradox across key health outcomes. It also provides an overview of the leading explanations, such as the salmon bias and the healthy immigrant effect. Further, it highlights the role of healthcare access and usage in this discussion. Ignoring these sources of bias have important consequences for how morbidity and mortality among Hispanics are measured within widely used national datasets.
+Many medical professionals left Puerto Rico due to the financial crisis. Puerto Rico passed Act 14 in April 2017 to mitigate the exodus of physicians, reducing the flat tax on medical services to 4 percent. The same year, Puerto Rico was devastated by a Category 4 hurricane, leaving the island without power for several months. A difference-in-difference model is used to estimate the net effects of the hurricane and Act 14 on the number of health-care providers. The number of health-care providers decreased by 6.5 percent, family physicians by 17.5 percent, and specialists by 8 percent.
