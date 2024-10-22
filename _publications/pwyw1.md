@@ -2,7 +2,7 @@
 title: "Pay-what-you-want pricing: Can it be profitable?"
 collection: publications
 category: manuscripts
-permalink: /publication/econed
+permalink: /publication/pwyw1
 excerpt: 'PWYW earns higher profits when marginal cost is low and behavioral factors are high.'
 date: 2015-08-05
 venue: 'Journal of Behavioral and Experimental Economics'
