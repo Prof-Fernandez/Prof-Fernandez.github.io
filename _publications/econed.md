@@ -1,15 +1,15 @@
 ---
-title: "Unraveling the Hispanic Health Paradox"
+title: "What do economic education scholars study? Insights from machine learning"
 collection: publications
 category: manuscripts
-permalink: /publication/HSRsuicide
-excerpt: 'In 2019, Hispanics in the US had a life expectancy advantage of 3.0 years and 7.1 years over non-Hispanic Whites and non-Hispanic Blacks, respectively, despite having real-household income values 26 percentage points lower than Non-Hispanic White households.'
-date: 2023-10-01
-venue: 'Journal of Economic Perspectives'
+permalink: /publication/econed
+excerpt: 'An unsupervised machine learning algorithm called Latent Dirichlet Allocation is utilized to identify 15 hidden topics in economic education scholarly work.'
+date: 2021-04-05
+venue: 'Journal of Economic Education'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[Link to Paper](https://www.aeaweb.org/articles?id=10.1257/jep.37.1.145)'
-citation: 'Fernandez, José, Mónica García-Pérez, and Sandra Orozco-Aleman. 2023. "Unraveling the Hispanic Health Paradox." Journal of Economic Perspectives, 37 (1): 145–68. DOI: 10.1257/jep.37.1.145'
+paperurl: '[Link to Paper](https://www.tandfonline.com/doi/abs/10.1080/00220485.2021.1887027?journalCode=vece20)'
+citation: 'Fernandez, Jose, Erin A. Yetter, & Kim Holder (2021) What do economic education scholars study? Insights from machine learning, The Journal of Economic Education, 52:2, 156-172, DOI: 10.1080/00220485.2021.1887027'
 ---
 
 # Abstract
-In 2019, Hispanics in the US had a life expectancy advantage of 3.0 years and 7.1 years over non-Hispanic Whites and non-Hispanic Blacks, respectively, despite having real-household income values 26 percentage points lower than Non-Hispanic White households. Hispanics appear to have equal or even better health outcomes relative to non-Hispanic Whites across various health measures. This is known as the Hispanic health paradox. This paper underscores the importance of disaggregating Hispanics by ancestry and age profile when discussing the paradox across key health outcomes. It also provides an overview of the leading explanations, such as the salmon bias and the healthy immigrant effect. Further, it highlights the role of healthcare access and usage in this discussion. Ignoring these sources of bias have important consequences for how morbidity and mortality among Hispanics are measured within widely used national datasets.
+The authors of this article use text mining techniques to uncover hidden or latent topics in economic education. The common use of JEL codes only identifies the academic setting for each paper but does not identify the underlying economic concept the paper addresses. An unsupervised machine learning algorithm called Latent Dirichlet Allocation is utilized to identify 15 hidden topics in economic education scholarly work. The text mining model identifies economic education topics by finding correlations in word usage across different documents. The authors show that these newly identified research topics explain more variation in citation counts than the commonly adopted JEL codes. Moreover, specific journals display preferences for certain topics within economic education research.
