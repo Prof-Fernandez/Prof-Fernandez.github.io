@@ -2,7 +2,7 @@
 title: "Consumers' perceptions of product quality and entrepreneurial survival: evidence from the craft brewery industry"
 collection: publications
 category: manuscripts
-permalink: /publication/HSRsuicide
+permalink: /publication/beer
 excerpt: 'A one standard deviation increase in the beer ratings reduces the probability of exit by 26% for a microbrewery and 19% for brewpubs. The authors find that larger microbreweries have a lower hazard of exiting.'
 date: 2024-09-07
 venue: 'Journal of Small Business and Enterprise Development'
