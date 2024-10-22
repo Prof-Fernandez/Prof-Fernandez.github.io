@@ -1,15 +1,15 @@
 ---
-title: "What do economic education scholars study? Insights from machine learning"
+title: "Pay-what-you-want pricing: Can it be profitable?"
 collection: publications
 category: manuscripts
 permalink: /publication/econed
-excerpt: 'An unsupervised machine learning algorithm called Latent Dirichlet Allocation is utilized to identify 15 hidden topics in economic education scholarly work.'
-date: 2021-04-05
-venue: 'Journal of Economic Education'
+excerpt: 'PWYW earns higher profits when marginal cost is low and behavioral factors are high.'
+date: 2015-08-05
+venue: 'Journal of Behavioral and Experimental Economics'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[Link to Paper](https://www.tandfonline.com/doi/abs/10.1080/00220485.2021.1887027?journalCode=vece20)'
-citation: 'Fernandez, Jose, Erin A. Yetter, & Kim Holder (2021) What do economic education scholars study? Insights from machine learning, The Journal of Economic Education, 52:2, 156-172, DOI: 10.1080/00220485.2021.1887027'
+paperurl: '[Link to Paper](https://www.sciencedirect.com/science/article/abs/pii/S2214804314000998)'
+citation: 'Chao, Yong, Jose Fernandez, and Babu Nahata (2015), “Pay-what-you-want pricing: Can it be profitable? Journal of Behavioral and Experimental Economics, Vol 57, August: 176-185'
 ---
 
 # Abstract
-The authors of this article use text mining techniques to uncover hidden or latent topics in economic education. The common use of JEL codes only identifies the academic setting for each paper but does not identify the underlying economic concept the paper addresses. An unsupervised machine learning algorithm called Latent Dirichlet Allocation is utilized to identify 15 hidden topics in economic education scholarly work. The text mining model identifies economic education topics by finding correlations in word usage across different documents. The authors show that these newly identified research topics explain more variation in citation counts than the commonly adopted JEL codes. Moreover, specific journals display preferences for certain topics within economic education research.
+Using a game theoretic framework, we show that not only can pay-what-you-want pricing generate positive profits, but it can also be more profitable than charging a fixed price to all consumers. Further, whenever it is more profitable, it is also Pareto-improving. We derive conditions in terms of two cost parameters, namely the marginal cost parameter for the seller, and the social preference parameter of a consumer to incorporate behavioral considerations for paying too little compared to her reference price.
