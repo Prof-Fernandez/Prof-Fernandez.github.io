@@ -1,5 +1,5 @@
 ---
-title: "Are suicides underreported? The impact of coroners versus medical examiners on suicide reporting."
+title: "Unraveling the Hispanic Health Paradox"
 collection: publications
 category: manuscripts
 permalink: /publication/HSRsuicide
