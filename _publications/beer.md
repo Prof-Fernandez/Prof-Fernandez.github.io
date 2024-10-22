@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/beer
 excerpt: 'A one standard deviation increase in the beer ratings reduces the probability of exit by 26% for a microbrewery and 19% for brewpubs. The authors find that larger microbreweries have a lower hazard of exiting.'
-date: 2024-09-07
+date: 2021-11-18
 venue: 'Journal of Small Business and Enterprise Development'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '[Link to Paper](https://www.emerald.com/insight/content/doi/10.1108/JSBED-12-2020-0439/full/html)'
