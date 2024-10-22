@@ -1,15 +1,15 @@
 ---
-title: "What do economic education scholars study? Insights from machine learning"
+title: "Breaking Bad in Bourbon Country: Does Alcohol Prohibition Encourage Methamphetamine Production?"
 collection: publications
 category: manuscripts
-permalink: /publication/econed
-excerpt: 'An unsupervised machine learning algorithm called Latent Dirichlet Allocation is utilized to identify 15 hidden topics in economic education scholarly work.'
-date: 2021-04-05
+permalink: /publication/breakingbad
+excerpt: 'Our results suggest that the number of meth lab seizures in Kentucky would decrease by 35% if all counties became wet.'
+date: 2018-03-15
 venue: 'Journal of Economic Education'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[Link to Paper](https://www.tandfonline.com/doi/abs/10.1080/00220485.2021.1887027?journalCode=vece20)'
-citation: 'Fernandez, Jose, Erin A. Yetter, & Kim Holder (2021) What do economic education scholars study? Insights from machine learning, The Journal of Economic Education, 52:2, 156-172, DOI: 10.1080/00220485.2021.1887027'
+paperurl: '[Link to Paper](https://onlinelibrary-wiley-com.echo.louisville.edu/doi/full/10.1002/soej.12262)'
+citation: 'Fernandez, Jose M., Stephan Gohmann, and Joshua Pinkston “Breaking Bad in Bourbon Country: Does Alcohol Prohibition Encourage Methamphetamine Production?” Southern Economic Journal 84, no. 4 (2018): 1001-1023.'
 ---
 
 # Abstract
-The authors of this article use text mining techniques to uncover hidden or latent topics in economic education. The common use of JEL codes only identifies the academic setting for each paper but does not identify the underlying economic concept the paper addresses. An unsupervised machine learning algorithm called Latent Dirichlet Allocation is utilized to identify 15 hidden topics in economic education scholarly work. The text mining model identifies economic education topics by finding correlations in word usage across different documents. The authors show that these newly identified research topics explain more variation in citation counts than the commonly adopted JEL codes. Moreover, specific journals display preferences for certain topics within economic education research.
+This article examines the influence of local alcohol prohibition on the prevalence of methamphetamine labs. Using multiple sources of data for counties in Kentucky, we compare various measures of meth manufacturing in wet, moist, and dry counties. Our preferred estimates address the endogeneity of local alcohol policies by exploiting differences in counties' religious compositions between the 1930s, when most local-option votes took place, and recent years. Even controlling for current religious affiliations, religious composition following the end of national Prohibition strongly predicts current alcohol restrictions. We carefully examine the validity of our identifying assumptions, and consider identification under alternative assumptions. Our results suggest that the number of meth lab seizures in Kentucky would decrease by 35% if all counties became wet.
