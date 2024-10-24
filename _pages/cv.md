@@ -354,12 +354,17 @@ Faculty Advisor to the Economic Club, 2008 - 2014
 
 # MEDIA MENTIONS(over 100)
 .   [Kentucky's EV battery manufacturing plans face uncertainty amid consumer skepticism Jul 1, 2024](https://www.wdrb.com/news/business/kentuckys-ev-battery-manufacturing-plans-face-uncertainty-amid-consumer-skepticism/article_61a818e8-37e0-11ef-9d77-d7e831606ab8.html)
+
 .   [The Brave new world of ChatGPT](https://www.uoflnews.com/magazine/the-brave-new-world-of-chatgpt/)
+
 .   [Kentucky workers may be affected by vote to ban non-compete agreements. April 25, 2024](https://spectrumnews1.com/ky/louisville/news/2024/04/24/federal-trade-commission-banning-non-compete-agreements-)
+
 .   [How to tell your company has layoffs planned. Some signs ‘will send shivers down your spine,’ career expert says PUBLISHED JUN 20 20232:28 PM UPDATED WED, JUN 21 20238:34 AM EDT](https://www.cnbc.com/2023/06/20/heres-how-to-tell-your-company-has-layoffs-planned.html)
 
 .   [UofL professor says failure of debt ceiling package could be catastrophic to US economy May 31, 2023](https://www.wdrb.com/news/business/uofl-professor-says-failure-of-debt-ceiling-package-could-be-catastrophic-to-us-economy/article_d8efd320-ffd1-11ed-8398-eb0fcd2e7931.html)
+
 .  [Is your money safe in local banks? Experts say yes](https://www.wave3.com/2023/03/13/is-your-money-safe-local-banks-experts-say-yes/)
+
 .  [Economists are predicting a recession. Does that really mean we'll have one? Jan 30, 2023](https://https//www.marketplace.org/2023/01/30/economists-are-predicting-a-recession-does-that-really-mean-well-have-one/)
 
 .  [Wallethub: How to save money on car insurance? Jan. 21, 2023](https://wallethub.com/edu/ci/average-car-insurance-cost/88076#expert=Jose_M._Fernandez)
@@ -422,7 +427,7 @@ Faculty Advisor to the Economic Club, 2008 - 2014
 
 . [Here's how McConnell's $1 trillion HEALS Act would impact Kentucky businesses and workers July 29, 2020](https://www.courier-journal.com/story/news/politics/2020/07/28/heals-act-covid-19-bill-would-impact-kentucky-businesses-workers/5523366002/)
 
-. [Column: Is Gilead ripping us off with a COVID-19 treatment topping $3000? June 30, 2020](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Furl%3Frct%3Dj%26sa%3Dt%26url%3Dhttps%3A%2F%2Fwww.latimes.com%2Fbusiness%2Fstory%2F2020-06-29%2Fcolumn-coronavirus-gilead-remdesivir-price%26ct%3Dga%26cd%3DCAEYACoTNDE5NDA3Nzg3MTQ2ODM4NDc1NTIaY2FlZjdlOThhMTg0MjE1Njpjb206ZW46VVM%26usg%3DAFQjCNFEp_GWyJOBCRJvcIWV8_J1bzsg8g&data=02%7C01%7Cjose.fernandez%40louisville.edu%7C87bb6691dfa74e26fd9b08d81cf59d8c%7Cdd246e4a54344e158ae391ad9797b209%7C0%7C0%7C637291188521264330&sdata=PgyaCW13%2F8k7ooSdTjhOeRX2fjFRTpregW5IeLgFaYs%3D&reserved=0)
+. [Column: Is Gilead ripping us off with a COVID-19 treatment topping $3000? June 30, 2020](https://www.latimes.com/business/story/2020-06-29/column-coronavirus-gilead-remdesivir-price)
 
 . [‘The floor was taken out from under them’: April’s massive job losses are hitting these Americans more than others May 9th, 2020](https://www.marketwatch.com/story/the-floor-was-taken-out-from-under-them-aprils-massive-job-losses-are-hitting-these-americans-more-than-others-2020-05-08)
 
@@ -456,7 +461,7 @@ Faculty Advisor to the Economic Club, 2008 - 2014
 
 .	[Why a Humana-Walmart merger makes sense - and why not Mar 30, 2018, 3:02pm](http://https//www.bizjournals.com/louisville/news/2018/03/30/why-a-humana-walmart-merger-makes-sense-and-why.html)
 
-.	[Tariff tiff: Economists say Trump plan bad for U.S., Kentucky, Louisville By BORIS LADWIG | March 7, 2018](http://https//insiderlouisville.com/business/trump-tariffs-spark-trade-war-worry-economists-say-tariffs-bad-for-u-s-kentucky/)
+.	[Tariff tiff: Economists say Trump plan bad for U.S., Kentucky, Louisville By BORIS LADWIG, March 7, 2018](http://https//insiderlouisville.com/business/trump-tariffs-spark-trade-war-worry-economists-say-tariffs-bad-for-u-s-kentucky/)
 
 .	[Economists: Tax law's impact on economic growth is likely small Dec. 20, 2017](http://https//insiderlouisville.com/business/economists-tax-laws-impact-on-economic-spending-is-likely-small/)
 
