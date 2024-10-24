@@ -1,5 +1,5 @@
 ---
-title: #"Paper Title Number 4"
+title: "Other Works"
 collection: publications
 category: conferences
 permalink: /publication/nonpubs
