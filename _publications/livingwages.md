@@ -1,5 +1,5 @@
 ---
-title: "“The Impact of Living-Wage Ordinances on Urban Crime."
+title: "The Impact of Living-Wage Ordinances on Urban Crime."
 collection: publications
 category: manuscripts
 permalink: /publication/livingwages
