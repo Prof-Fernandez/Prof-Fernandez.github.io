@@ -10,6 +10,9 @@ location: "Louisville, KY"
 
 # Econometrics and R
 
+## Free TextBook [_Econometrics for Business Analytics_](https://bookdown.org/cuborican/RE_STAT/)
+
+## Older Class NOtes
 - [Linear Regression](https://rpubs.com/cuborican/regression) - Simple Linear Regression, Multiple Regression, Log Transformations, and Dummy Variables
 - [Causal Inference with Linear Regression](https://rpubs.com/cuborican/causal) - RCT's, Difference-in-Differences, Instrumental Variables, and Regression Discontinuity
 - [Propensity Score Matching](https://rpubs.com/cuborican/Matching) - Matching Models and Inverse Propensity Score Weighting
@@ -18,7 +21,7 @@ location: "Louisville, KY"
 - [Censored and Truncated Data](https://rpubs.com/cuborican/censored) - Tobit, Truncated Regression, and Sample Selection (Heckman) Models
 - [Introduction to Survival Analysis](https://rpubs.com/cuborican/survival) - Kaplan Meier Estimator, Cox Regression, Exponential and Weibull Accelerated Failure Time Models 
 
-Older Items
+## Older Items
 
 - [Examples of Descriptive Graphs and Charts in R using data from the Louisville Metro Police Department Citation Records](http://rpubs.com/cuborican/LVILLECITATION)
 - [Merging Data and Webscrapping in R](https://rpubs.com/cuborican/webscrapping)
