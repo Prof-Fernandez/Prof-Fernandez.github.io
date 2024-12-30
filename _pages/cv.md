@@ -87,7 +87,7 @@ redirect_from:
 
 21. [Coomes, Paul, Jose Fernandez, and Stephan Gohmann, (2012) "The Rate of Proprietorship among Metropolitan Areas: The Impact of Institutions, Local Economic Environment and Capital Resources" *Entrepreneurship Theory and Practice*, 37(4): 745-770](https://journals.sagepub.com/doi/abs/10.1111/j.1540-6520.2012.00511.x)
 
-22.  Rey, J. R., Hinebaugh, D., & Fernandez, J. (2002). Analysis of Florida transit bus crashes. *Transportation Research Record: Journal of the Transportation Research Board*, 1791(1), 26-34.
+22.  [Rey, J. R., Hinebaugh, D., & Fernandez, J. (2002). Analysis of Florida transit bus crashes. *Transportation Research Record: Journal of the Transportation Research Board*, 1791(1), 26-34.](https://doi.org/10.3141/1791-05)
 
 ## Book Chapters
 
@@ -135,8 +135,6 @@ Principles of Macroeconomics (teaching assistant)
 
 # AWARDS
 
-Fellow of the Diversity Initiative for Tenure in Economics, 2013-2014
-
 *University of Louisville*
 
 University’s Distinguished Faculty Service Award, 2022
@@ -146,6 +144,8 @@ LIAM Program Graduate, 2022
 Cardinal Spirit Award, 2020
 
 Faculty Service Award College of Business, 2018
+
+Fellow of the Diversity Initiative for Tenure in Economics, 2013-2014
 
 Undergraduate Teaching Award College of Business, 2012 
 
@@ -272,6 +272,8 @@ Keynote speaker for Hispanic Heritage Month
 
 Co-Chair of the Committee on the Status of Minority Groups in the Economics Profession for the American Economic Association (2024 - Present)
 
+Trustee of the Southern Economics Association (2025 - Present)
+
 ASHEcon Conference Health Equity Program Chair (2023 - 2025)
 
 President of the American Society of Hispanic Economists (2020-2022)
@@ -335,7 +337,7 @@ Hispanic Initiative member, 2010 - 2011
 Guest Speaker of Summer Medical and Dental Education Program, 2010 - 2016
 
 Guest Statistics Instructor for the PhD Program in Entrepreneurship, 2009, 2018, 2019, 2022, 2023                  
-Search Committee Member for Executive Vice President for Research & Innovation, 2024
+Search Committee Member for Executive Vice President for Research & Innovation, 2024 - Present
 
 Search Committee Member for Delphi Center, 2024
 
