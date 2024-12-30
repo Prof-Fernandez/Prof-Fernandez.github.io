@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/pillmill
 excerpt: 'Pill mill legislation is found to reduce the suicide rate by 4.9% among females and by 4.7% among individuals aged 45–64, and the drug-related suicide rate by 8.5% in the total population.'
-date: 2024-09-07
+date: 2022-09-07
 venue: 'Health Services Research'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '[Link to Paper](https://onlinelibrary-wiley-com.echo.louisville.edu/doi/full/10.1111/1475-6773.13984)'
