@@ -46,47 +46,48 @@ redirect_from:
 
 ## Journal Articles
 
-1. [Fernandez, José and Jayani Jayawardhana. 2024. "Are suicides underreported? The impact of coroners versus medical examiners on suicide reporting." _Forthcoming Health Service Research_ ](https://doi.org/10.1111/1475-6773.14381)
+1. [Jayawardhana, Jayani and Jose Fernandez. 2024. "Impact of medical and recreational cannabis laws on inpatient visits for asthma" _Forthcoming Health Service Research_ ](https://doi.org/10.1111/1475-6773.14427)
+2. [Fernandez, José and Jayani Jayawardhana. 2024. "Are suicides underreported? The impact of coroners versus medical examiners on suicide reporting." _Forthcoming Health Service Research_ ](https://doi.org/10.1111/1475-6773.14381)
 
-2. [Fernandez, José, Mónica García-Pérez, and Sandra Orozco-Aleman. 2023. "Unraveling the Hispanic Health Paradox." _Journal of Economic Perspectives_, 37 (1): 145-68.](https://www.aeaweb.org/articles?id=10.1257/jep.37.1.145)
+3. [Fernandez, José, Mónica García-Pérez, and Sandra Orozco-Aleman. 2023. "Unraveling the Hispanic Health Paradox." _Journal of Economic Perspectives_, 37 (1): 145-68.](https://www.aeaweb.org/articles?id=10.1257/jep.37.1.145)
 
-3. [Lennon, Conor, Jose Fernandez, Stephan Gohmann, and Keith Teltser. 2023. "How Morality and Efficiency Shape Public Support for Minimum Wages " _Journal of Economic Behavior & Organization_ Vol 205, pp. 618-637.](https://www.sciencedirect.com/science/article/abs/pii/S0167268122004267?dgcid=coauthor) 
+4. [Lennon, Conor, Jose Fernandez, Stephan Gohmann, and Keith Teltser. 2023. "How Morality and Efficiency Shape Public Support for Minimum Wages " _Journal of Economic Behavior & Organization_ Vol 205, pp. 618-637.](https://www.sciencedirect.com/science/article/abs/pii/S0167268122004267?dgcid=coauthor) 
 
-4. [Fernandez JM, Jayawardhana J. The Effect of Pill Mill Legislation on Suicides. _Health Services Research_. 2022 Oct;57(5):1121-1135. doi: 10.1111/1475-6773.13984.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.13984)
+5. [Fernandez JM, Jayawardhana J. The Effect of Pill Mill Legislation on Suicides. _Health Services Research_. 2022 Oct;57(5):1121-1135. doi: 10.1111/1475-6773.13984.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.13984)
 
-5. [Fernandez, J.M. and Gohmann, S.F. (2022), "Consumers' perceptions of product quality and entrepreneurial survival: evidence from the craft brewery industry", _Journal of Small Business and Enterprise Development_, Vol. 29 No. 3, pp. 441-460. https://doi.org/10.1108/JSBED-12-2020-0439](https://www.emerald.com/insight/content/doi/10.1108/JSBED-12-2020-0439/full/html)
+6. [Fernandez, J.M. and Gohmann, S.F. (2022), "Consumers' perceptions of product quality and entrepreneurial survival: evidence from the craft brewery industry", _Journal of Small Business and Enterprise Development_, Vol. 29 No. 3, pp. 441-460. https://doi.org/10.1108/JSBED-12-2020-0439](https://www.emerald.com/insight/content/doi/10.1108/JSBED-12-2020-0439/full/html)
 
-6. [Fernandez, Jose, Erin A. Yetter, & Kim Holder (2021) What do economic education scholars study? Insights from machine learning, *The Journal of Economic Education*, 52:2, 156-172, DOI: 10.1080/00220485.2021.1887027](https://www.tandfonline.com/doi/abs/10.1080/00220485.2021.1887027?journalCode=vece20)
+7. [Fernandez, Jose, Erin A. Yetter, & Kim Holder (2021) What do economic education scholars study? Insights from machine learning, *The Journal of Economic Education*, 52:2, 156-172, DOI: 10.1080/00220485.2021.1887027](https://www.tandfonline.com/doi/abs/10.1080/00220485.2021.1887027?journalCode=vece20)
 
-7. [Fernandez, Jose M. 2021. "Hurricane Maria and La Crisis Boricua on Health-Care Supply in Puerto Rico." _AEA Papers and Proceedings_, 111: 598-601.DOI: 10.1257/pandp.20211116](https://doi.org/10.1257/pandp.20211116)
+8. [Fernandez, Jose M. 2021. "Hurricane Maria and La Crisis Boricua on Health-Care Supply in Puerto Rico." _AEA Papers and Proceedings_, 111: 598-601.DOI: 10.1257/pandp.20211116](https://doi.org/10.1257/pandp.20211116)
 
-8. [Jayawardhana, J, Fernandez, JM. The associations of medical marijuana policies with opioid‐related health care utilization. *Health Serv Res.* 2021; 56: 299– 309. https://doi.org/10.1111/1475-6773.13632](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.13632)
+9. [Jayawardhana, J, Fernandez, JM. The associations of medical marijuana policies with opioid‐related health care utilization. *Health Serv Res.* 2021; 56: 299– 309. https://doi.org/10.1111/1475-6773.13632](https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.13632)
 
-9. [Chao, Yong, Jose Fernandez, and Babu Nahata. "Pay-what-you-want pricing under competition: Breaking the Bertrand Trap." Journal of Behavioral and Experimental Economics 82 (2019): 101453.](https://www.sciencedirect.com/science/article/pii/S2214804318304208)
+10. [Chao, Yong, Jose Fernandez, and Babu Nahata. "Pay-what-you-want pricing under competition: Breaking the Bertrand Trap." Journal of Behavioral and Experimental Economics 82 (2019): 101453.](https://www.sciencedirect.com/science/article/pii/S2214804318304208)
 
-10. [Lennon, Conor, Jose Fernandez, Stephan Gohmann, and Keith Teltser. 2019. "Minimum Wages, Morality, and Efficiency: A Choice Experiment." *AEA Papers and Proceedings*, 109 : 176-81.](https://www.aeaweb.org/articles?id=10.1257/pandp.20191088)
+11. [Lennon, Conor, Jose Fernandez, Stephan Gohmann, and Keith Teltser. 2019. "Minimum Wages, Morality, and Efficiency: A Choice Experiment." *AEA Papers and Proceedings*, 109 : 176-81.](https://www.aeaweb.org/articles?id=10.1257/pandp.20191088)
 
-11. [Fernandez, Jose M., Stephan Gohmann, and Joshua Pinkston "Breaking Bad in Bourbon Country: Does Alcohol Prohibition Encourage Methamphetamine Production?" *Southern Economic Journal* 84, no. 4 (2018): 1001-1023.](https://onlinelibrary.wiley.com/doi/abs/10.1002/soej.12262)
+12. [Fernandez, Jose M., Stephan Gohmann, and Joshua Pinkston "Breaking Bad in Bourbon Country: Does Alcohol Prohibition Encourage Methamphetamine Production?" *Southern Economic Journal* 84, no. 4 (2018): 1001-1023.](https://onlinelibrary.wiley.com/doi/abs/10.1002/soej.12262)
 
-12. [Bogan, Vicki L., and Jose M. Fernandez. 2017. "How Children with Mental Disabilities Affect Household Investment Decisions." *American Economic Review Papers and Proceedings*, 107(5): 536-40](https://www.aeaweb.org/articles?id=10.1257/aer.p20171145)
+13. [Bogan, Vicki L., and Jose M. Fernandez. 2017. "How Children with Mental Disabilities Affect Household Investment Decisions." *American Economic Review Papers and Proceedings*, 107(5): 536-40](https://www.aeaweb.org/articles?id=10.1257/aer.p20171145)
 
-13.	[Chao, Yong, Jose Fernandez, and Babu Nahata (2015), "Pay-what-you-want pricing: Can it be profitable? *Journal of Behavioral and Experimental Economics*, Vol 57, August: 176-185](https://www.sciencedirect.com/science/article/abs/pii/S2214804314000998)
+14.	[Chao, Yong, Jose Fernandez, and Babu Nahata (2015), "Pay-what-you-want pricing: Can it be profitable? *Journal of Behavioral and Experimental Economics*, Vol 57, August: 176-185](https://www.sciencedirect.com/science/article/abs/pii/S2214804314000998)
 
-14. [Dave, Dhaval and Jose Fernandez (2015), "Rising Autism Prevalence: Real or Displacing Other Mental Disorders? Evidence from Demand for Auxiliary Healthcare Workers in California" *Economic Inquiry*, 52(1): 448-468](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.12137)
+15. [Dave, Dhaval and Jose Fernandez (2015), "Rising Autism Prevalence: Real or Displacing Other Mental Disorders? Evidence from Demand for Auxiliary Healthcare Workers in California" *Economic Inquiry*, 52(1): 448-468](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.12137)
 
-15. [Fernandez, Jose and Matthew Lang (2015), "Suicide and Organ Donors: Spillover Effects of Mental Health Insurance Mandates" *Health Economic*, 24(4): 491-497](https://pubmed.ncbi.nlm.nih.gov/24523052/)
+16. [Fernandez, Jose and Matthew Lang (2015), "Suicide and Organ Donors: Spillover Effects of Mental Health Insurance Mandates" *Health Economic*, 24(4): 491-497](https://pubmed.ncbi.nlm.nih.gov/24523052/)
 
-16. [Fernandez, Jose, Thomas Holman, and John V. Pepper. "The Impact of Living-Wage Ordinances on Urban Crime." *Industrial Relations: A Journal of Economy and Society* 53.3 (2014): 478-500.](https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12065) 
+17. [Fernandez, Jose, Thomas Holman, and John V. Pepper. "The Impact of Living-Wage Ordinances on Urban Crime." *Industrial Relations: A Journal of Economy and Society* 53.3 (2014): 478-500.](https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12065) 
 
-17. [Gohmann, Stephan and Jose Fernandez (2014), "Proprietorship and Unemployment in the United States" *Journal of Business Venturing*, Volume 29, Issue 2, pages 289-309](https://www.sciencedirect.com/science/article/abs/pii/S0883902613000189)
+18. [Gohmann, Stephan and Jose Fernandez (2014), "Proprietorship and Unemployment in the United States" *Journal of Business Venturing*, Volume 29, Issue 2, pages 289-309](https://www.sciencedirect.com/science/article/abs/pii/S0883902613000189)
 
-18. [Fernandez, Jose, David Howard, and Lisa Stohr Korese, (2013), Effect of Cadaveric Kidney Donations on Living Kidney Donations: An Instrumental Variables Approach. *Economic Inquiry*, 51(3): 1696-1714](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1465-7295.2012.00500.x)
+19. [Fernandez, Jose, David Howard, and Lisa Stohr Korese, (2013), Effect of Cadaveric Kidney Donations on Living Kidney Donations: An Instrumental Variables Approach. *Economic Inquiry*, 51(3): 1696-1714](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1465-7295.2012.00500.x)
 
-19. [Fernandez, Jose M. (2013), "An Empirical Model of Learning under Ambiguity: The Case of Clinical Trials." *International Economic Review*, 54(2): 549-573](https://onlinelibrary.wiley.com/doi/abs/10.1111/iere.12006)
+20. [Fernandez, Jose M. (2013), "An Empirical Model of Learning under Ambiguity: The Case of Clinical Trials." *International Economic Review*, 54(2): 549-573](https://onlinelibrary.wiley.com/doi/abs/10.1111/iere.12006)
 
-20. [Coomes, Paul, Jose Fernandez, and Stephan Gohmann, (2012) "The Rate of Proprietorship among Metropolitan Areas: The Impact of Institutions, Local Economic Environment and Capital Resources" *Entrepreneurship Theory and Practice*, 37(4): 745-770](https://journals.sagepub.com/doi/abs/10.1111/j.1540-6520.2012.00511.x)
+21. [Coomes, Paul, Jose Fernandez, and Stephan Gohmann, (2012) "The Rate of Proprietorship among Metropolitan Areas: The Impact of Institutions, Local Economic Environment and Capital Resources" *Entrepreneurship Theory and Practice*, 37(4): 745-770](https://journals.sagepub.com/doi/abs/10.1111/j.1540-6520.2012.00511.x)
 
-21.  Rey, J. R., Hinebaugh, D., & Fernandez, J. (2002). Analysis of Florida transit bus crashes. *Transportation Research Record: Journal of the Transportation Research Board*, 1791(1), 26-34.
+22.  Rey, J. R., Hinebaugh, D., & Fernandez, J. (2002). Analysis of Florida transit bus crashes. *Transportation Research Record: Journal of the Transportation Research Board*, 1791(1), 26-34.
 
 ## Book Chapters
 
