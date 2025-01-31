@@ -256,7 +256,7 @@ American Journal of Health Economics; American Journal of Public Health; Economi
 
 ## Service to the Community
 
-[Member of Statutory Committee Consensus Forecasting Group for the Kentucky General Assembly](https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=220&CommitteeType=Statutory+Committee)
+[Member of Statutory Committee Consensus Forecasting Group for the Kentucky General Assembly (2019 - Present)](https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=220&CommitteeType=Statutory+Committee)
 
 Guest Speaker for Prospanica, Bingham Fellows of Leadership Louisville, Indiana University - Southeast, Health Enterprise Network, UofL Department of Modern Languages, Al Dia en America, La Esquina, Adelante Hispanic Achievers, Wealth Builders, King's Day Society.
 
@@ -356,6 +356,8 @@ Search Committee Member for Provost, 2017
 Faculty Advisor to the Economic Club, 2008 - 2014
 
 # MEDIA MENTIONS(over 100)
+.   [Brown-Forman to lay off 648 workers amid declining bourbon sales January 14, 2025](https://www.whas11.com/article/news/local/brown-forman-layoffs-impact-hundreds-of-local-workers-louisville-cooperage/417-440f27d1-7650-4a47-9a34-5f24bc2cebcc)
+
 .   [Kentucky's EV battery manufacturing plans face uncertainty amid consumer skepticism Jul 1, 2024](https://www.wdrb.com/news/business/kentuckys-ev-battery-manufacturing-plans-face-uncertainty-amid-consumer-skepticism/article_61a818e8-37e0-11ef-9d77-d7e831606ab8.html)
 
 .   [The Brave new world of ChatGPT](https://www.uoflnews.com/magazine/the-brave-new-world-of-chatgpt/)
