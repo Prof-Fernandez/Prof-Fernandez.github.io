@@ -1,0 +1,52 @@
+statefips,state_name,Male-Female
+1 ,Alabama,8000
+2 ,Alaska,114700
+4 ,Arizona,10000
+5 ,Arkansas,-16000
+6 ,California,29000
+8 ,Colorado,27500
+9 ,Connecticut,38000
+10 ,Delaware,18850
+11 ,District of Columbia,35000
+12 ,Florida,38000
+13 ,Georgia,34100
+15 ,Hawaii,49000
+16 ,Idaho,19000
+17 ,Illinois,46000
+18 ,Indiana,500
+19 ,Iowa,11500
+20 ,Kansas,69600
+21 ,Kentucky,27100
+22 ,Louisiana,43000
+23 ,Maine,53400
+24 ,Maryland,22370
+25 ,Massachusetts,40400
+26 ,Michigan,34430
+27 ,Minnesota,47400
+28 ,Mississippi,-13000
+29 ,Missouri,15000
+30 ,Montana,77600
+31 ,Nebraska,5000
+32 ,Nevada,10000
+33 ,New Hampshire,55000
+34 ,New Jersey,49840
+35 ,New Mexico,16000
+36 ,New York,23000
+37 ,North Carolina,21000
+38 ,North Dakota,57000
+39 ,Ohio,28090
+40 ,Oklahoma,39030
+41 ,Oregon,10300
+42 ,Pennsylvania,34900
+44 ,Rhode Island,-8000
+45 ,South Carolina,26300
+46 ,South Dakota,-5900
+47 ,Tennessee,60000
+48 ,Texas,34000
+49 ,Utah,11000
+50 ,Vermont,135600
+51 ,Virginia,28500
+53 ,Washington,11200
+54 ,West Virginia,-11900
+55 ,Wisconsin,32000
+56 ,Wyoming,-34000
