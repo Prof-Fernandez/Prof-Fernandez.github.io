@@ -101,6 +101,10 @@ In the code above we do several things.
 
 Below I show the most commonly used single words and bigram (two word combinations) used in the speech. 
 
+![](https://prof-fernandez.github.io/files/trump_freq1.jpg)
+
+![](https://prof-fernandez.github.io/files/trump_freq2.jpg)
+
 
 ### Wordcloud
 We can also take the data and make a wordcloud.
@@ -112,6 +116,7 @@ wordcloud(words = word_counts$word, freq = word_counts$n, min.freq = 1,
           max.words = 200, random.order = FALSE, rot.per = 0.35,
           colors = brewer.pal(8, "Dark2"))
 ```
+![](https://prof-fernandez.github.io/files/trump_wordcloud.png)
 
 ### Sentimental Analysis
 
@@ -129,3 +134,5 @@ ggplot(trump_sent,aes(x=element_id, y=sentiment))
   +labs(title = "Sentiment as Speech Progressed")
 ```
 As you would expect the speech starts "mid" as the kids would say, but then builds some steam and becomes more positive towards the end.
+
+![](https://prof-fernandez.github.io/files/sentiment_graph.png)
