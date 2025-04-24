@@ -105,6 +105,7 @@ Part 2: 2014 Health Economic Research Study by Jose Fernandez PhD, associate pro
 4. [Fernandez, Jose. 2020. “Letter from ASHE President.” Hispanic Economic Outlook, pp. 1-2.](https://asheweb.org/wp-content/uploads/2021/01/HEOReport-2020_final.pdf)
 5. [Fernandez, Jose. 2021. "Colorism among Hispanic Households." Hispanic Economic Outlook, pp.10-13](https://asheweb.org/wp-content/uploads/2021/12/HEO-2021.pdf)
 6. [Fernandez, Jose. 2022 “FOCUS Introduction: Economics seminar dynamics revisited”](https://www.aeaweb.org/content/file?id=17929), published by _the American Economic Association’s Committee on the Status of Women in the Economics Professor_.
+7. [Fernández, José. 2025. “Le Politiche Di Inclusione Hanno Favorito Soprattutto i Bianchi.” Rivista Eco (blog). March 14, 2025.]( https://www.rivistaeco.com/2025/03/14/le-politiche-di-inclusione-hanno-favorito-soprattutto-i-bianchi/).
 
 ## Working Papers
 
@@ -356,6 +357,12 @@ Search Committee Member for Provost, 2017
 Faculty Advisor to the Economic Club, 2008 - 2014
 
 # MEDIA MENTIONS(over 100)
+.   [Fresh produce, coffee, seafood expected to cost Louisville area shoppers more due to tariffs April 23](https://www.wdrb.com/news/politics/fresh-produce-coffee-seafood-expected-to-cost-louisville-area-shoppers-more-due-to-tariffs/article_217b4436-a9c0-4d71-ac5b-ea587677920a.html)
+
+.   [Kentucky Distillers' Association: Bourbon industry 'will suffer' amid tariffs March 5, 2025](https://www.whas11.com/article/news/local/kentucky-bourbon-retaliatory-tariff-donald-trump-money-louisville/417-0d09c50c-f545-4ffc-9a16-1f7e89e32777)
+
+.   [Experts weigh in on how Trump tariffs will impact Kentucky industries March 6, 2025](https://www.wlky.com/article/president-trump-tariffs-impact-kentucky-industries/64078185)
+
 .   [Brown-Forman to lay off 648 workers amid declining bourbon sales January 14, 2025](https://www.whas11.com/article/news/local/brown-forman-layoffs-impact-hundreds-of-local-workers-louisville-cooperage/417-440f27d1-7650-4a47-9a34-5f24bc2cebcc)
 
 .   [Kentucky's EV battery manufacturing plans face uncertainty amid consumer skepticism Jul 1, 2024](https://www.wdrb.com/news/business/kentuckys-ev-battery-manufacturing-plans-face-uncertainty-amid-consumer-skepticism/article_61a818e8-37e0-11ef-9d77-d7e831606ab8.html)
